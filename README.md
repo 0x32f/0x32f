@@ -1,5 +1,8 @@
 # Hey, here's a little about me
 
-# test
-# test
-# test
+### I am a programmer and code:
+- C++
+- C#
+- C
+- Python
+- & Java
