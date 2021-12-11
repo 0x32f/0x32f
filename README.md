@@ -6,3 +6,7 @@
 - 💻 C
 - 💻 Python
 - 💻 & Java
+
+### Socials
+
+- Don't have any right now
