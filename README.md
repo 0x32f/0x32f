@@ -5,6 +5,7 @@
 - 💻 C#
 - 💻 C
 - 💻 Python
+- 💻 Lua
 - 💻 & Java
 
 ### Socials
